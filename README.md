@@ -6,7 +6,7 @@ An Automatic Traffic Violation Detection System
 - 1 min we have at least 22 traffic violations in India and 
 - 1 death per 4 mins due to road accidents 
 
-This project aims to catch 
+This project aims to curb Overspeeding and Red Light Violation. A detailed algorithmic flow of the same has been provided in the PPT. 
 
 ## Getting Started 
 
@@ -49,4 +49,4 @@ Everything is pretty much there. Go ahead and run them!
 
 * [tesse.py](/tesse.py). This script reads the chracters on the number plate (from the ROI extracted using the above script) using the Tesseract library. 
 
-## PowerPoint Presentation for the Project : https://docs [dot] google [dot] com/presentation/d/17EBQIEI1Dg7hZalhWzVDqoJervvtFXIorkPj9AHB3Hk/edit?usp=sharing
+###  PowerPoint Presentation for the Project : https://docs [dot] google [dot] com/presentation/d/17EBQIEI1Dg7hZalhWzVDqoJervvtFXIorkPj9AHB3Hk/edit?usp=sharing
