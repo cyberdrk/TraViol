@@ -1,0 +1,5 @@
+opencv-python>=4.8
+numpy>=1.24
+# optional
+pytesseract>=0.3.10   # plate OCR; also needs the tesseract binary
+dropbox>=12.0         # evidence upload
